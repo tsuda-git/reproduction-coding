@@ -1,0 +1,37 @@
+@charset "UTF-8";
+header {
+  height: 60px;
+  width: 960px;
+  display: flex;
+  margin: 0 auto;
+}
+header .logo-image {
+  width: 120px;
+  height: 40px;
+  margin-left: 76px;
+  margin-top: 10px;
+}
+header .link {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 538px;
+  display: flex;
+}
+header .link a {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 30px;
+  font-size: 14.4px;
+  font-family: "メイリオ", "Meiryo", sans-serif;
+}
+
+main .mainvisual-image {
+  width: 100%;
+  height: 600px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+main section {
+  width: 960px;
+  margin: 0 auto;
+}/*# sourceMappingURL=style.css.map */
